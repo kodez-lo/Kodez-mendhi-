@@ -1,0 +1,1 @@
+{"name":"kodez-mendhi-artist","version":"2.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0 --port 3000","build":"vite build","preview":"vite preview --host 0.0.0.0","test":"node --test src/booking.test.js"},"dependencies":{"react":"19.3.0","react-dom":"19.3.0","lucide-react":"^0.468.0"},"devDependencies":{"@vitejs/plugin-react":"^5.0.0","vite":"^7.0.0"}}
